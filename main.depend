@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1670168905 source:c:\users\usuario\documents\apps\code blocks\code blocks\tda\museo\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"museo.h"
+	"director.h"
+	"obras.h"
+
+1670169572 c:\users\usuario\documents\apps\code blocks\code blocks\tda\museo\main\museo.h
+
+1670164556 c:\users\usuario\documents\apps\code blocks\code blocks\tda\museo\main\director.h
+
+1670172671 source:c:\users\usuario\documents\apps\code blocks\code blocks\tda\museo\main\museo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"museo.h"
+	"obras.h"
+
+1670168329 source:c:\users\usuario\documents\apps\code blocks\code blocks\tda\museo\main\director.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"director.h"
+
+1670172671 source:c:\users\usuario\documents\apps\code blocks\code blocks\tda\museo\main\obras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"obras.h"
+
+1670165857 c:\users\usuario\documents\apps\code blocks\code blocks\tda\museo\main\obras.h
+
